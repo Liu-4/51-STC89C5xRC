@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\LED-流水灯.obj" 
+TO ".\Objects\LED-流水灯" 
+PRINT(".\Listings\LED-流水灯.m51") RAMSIZE(256) 
